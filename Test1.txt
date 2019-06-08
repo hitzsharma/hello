@@ -1,2 +1,4 @@
 Test file 1
 dummy file to test
+
+some changes
